@@ -1,0 +1,170 @@
+ProgramState:
+ExecutionStack
+{(Ref(int )v;(new(v,20);(Ref(Ref(int ))a;(new(a,v);(new(v,30);print(rH(rH(a))))))))|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(new(v,20);(Ref(Ref(int ))a;(new(a,v);(new(v,30);print(rH(rH(a)))))))|Ref(int )v|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(new(v,20);(Ref(Ref(int ))a;(new(a,v);(new(v,30);print(rH(rH(a)))))))|}
+SymbolTable
+{v -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(Ref(Ref(int ))a;(new(a,v);(new(v,30);print(rH(rH(a))))))|new(v,20)|}
+SymbolTable
+{v -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(Ref(Ref(int ))a;(new(a,v);(new(v,30);print(rH(rH(a))))))|}
+SymbolTable
+{v -> (2,int );}
+Output
+{}
+File table
+{}
+Heap
+{2->20
+}
+
+
+ProgramState:
+ExecutionStack
+{(new(a,v);(new(v,30);print(rH(rH(a)))))|Ref(Ref(int ))a|}
+SymbolTable
+{v -> (2,int );}
+Output
+{}
+File table
+{}
+Heap
+{2->20
+}
+
+
+ProgramState:
+ExecutionStack
+{(new(a,v);(new(v,30);print(rH(rH(a)))))|}
+SymbolTable
+{a -> (0,Ref(int ));v -> (2,int );}
+Output
+{}
+File table
+{}
+Heap
+{2->20
+}
+
+
+ProgramState:
+ExecutionStack
+{(new(v,30);print(rH(rH(a))))|new(a,v)|}
+SymbolTable
+{a -> (0,Ref(int ));v -> (2,int );}
+Output
+{}
+File table
+{}
+Heap
+{2->20
+}
+
+
+ProgramState:
+ExecutionStack
+{(new(v,30);print(rH(rH(a))))|}
+SymbolTable
+{a -> (3,Ref(int ));v -> (2,int );}
+Output
+{}
+File table
+{}
+Heap
+{2->20
+3->(2,int )
+}
+
+
+ProgramState:
+ExecutionStack
+{print(rH(rH(a)))|new(v,30)|}
+SymbolTable
+{a -> (3,Ref(int ));v -> (2,int );}
+Output
+{}
+File table
+{}
+Heap
+{2->20
+3->(2,int )
+}
+
+
+ProgramState:
+ExecutionStack
+{print(rH(rH(a)))|}
+SymbolTable
+{a -> (3,Ref(int ));v -> (4,int );}
+Output
+{}
+File table
+{}
+Heap
+{2->20
+3->(2,int )
+4->30
+}
+
+
+ProgramState:
+ExecutionStack
+{}
+SymbolTable
+{a -> (3,Ref(int ));v -> (4,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{2->20
+3->(2,int )
+4->30
+}
+
+

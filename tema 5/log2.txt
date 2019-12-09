@@ -1,0 +1,130 @@
+ProgramState:
+ExecutionStack
+{(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(int b;(a=2+3*5;(b=a+1;print(b))))|int a|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(int b;(a=2+3*5;(b=a+1;print(b))))|}
+SymbolTable
+{a -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(a=2+3*5;(b=a+1;print(b)))|int b|}
+SymbolTable
+{a -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(a=2+3*5;(b=a+1;print(b)))|}
+SymbolTable
+{a -> 0;b -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(b=a+1;print(b))|a=2+3*5|}
+SymbolTable
+{a -> 0;b -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(b=a+1;print(b))|}
+SymbolTable
+{a -> 17;b -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{print(b)|b=a+1|}
+SymbolTable
+{a -> 17;b -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{print(b)|}
+SymbolTable
+{a -> 17;b -> 18;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{}
+SymbolTable
+{a -> 17;b -> 18;}
+Output
+{18 }
+File table
+{}
+Heap
+{}
+
+

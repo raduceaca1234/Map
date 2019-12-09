@@ -1,0 +1,130 @@
+ProgramState:
+ExecutionStack
+{(bool a;(int v;(a=true;(if a then v=2 else v=3;print(v)))))|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(int v;(a=true;(if a then v=2 else v=3;print(v))))|bool a|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(int v;(a=true;(if a then v=2 else v=3;print(v))))|}
+SymbolTable
+{a -> false;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(a=true;(if a then v=2 else v=3;print(v)))|int v|}
+SymbolTable
+{a -> false;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(a=true;(if a then v=2 else v=3;print(v)))|}
+SymbolTable
+{a -> false;v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(if a then v=2 else v=3;print(v))|a=true|}
+SymbolTable
+{a -> false;v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{(if a then v=2 else v=3;print(v))|}
+SymbolTable
+{a -> true;v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{print(v)|if a then v=2 else v=3|}
+SymbolTable
+{a -> true;v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{print(v)|}
+SymbolTable
+{a -> true;v -> 2;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState:
+ExecutionStack
+{}
+SymbolTable
+{a -> true;v -> 2;}
+Output
+{2 }
+File table
+{}
+Heap
+{}
+
+
