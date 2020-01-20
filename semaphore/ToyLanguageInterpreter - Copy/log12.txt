@@ -1,0 +1,1249 @@
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v1;(int cnt;(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))))))|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))))|Ref(int )v1|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))))|Ref(int )v1|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))))|}
+SymbolTable
+{v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))))|}
+SymbolTable
+{v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))))|int cnt|}
+SymbolTable
+{v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))))|int cnt|}
+SymbolTable
+{v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))))|}
+SymbolTable
+{cnt -> 0;v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))))|}
+SymbolTable
+{cnt -> 0;v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))|new(v1,2)|}
+SymbolTable
+{cnt -> 0;v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))|new(v1,2)|}
+SymbolTable
+{cnt -> 0;v1 -> (0,int );}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.NewSemaphoreStatement@725adadf;(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))|Model.Statements.NewSemaphoreStatement@725adadf|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))|Model.Statements.NewSemaphoreStatement@725adadf|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))));(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))|fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))|fork((Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba)))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))));(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(Model.Statements.AcquireStatement@2f56981;(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba)))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))|fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))|Model.Statements.AcquireStatement@2f56981|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))|fork((Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))|Model.Statements.AcquireStatement@2f56981|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Model.Statements.AcquireStatement@5efdc51;(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(wH(v1,rH(v1)*10);(print(rH(v1));Model.Statements.ReleaseStatement@70308aba))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(Model.Statements.AcquireStatement@8d7aed9;(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e))))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@70308aba)|wH(v1,rH(v1)*10)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@70308aba)|wH(v1,rH(v1)*10)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@70308aba)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@70308aba)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{Model.Statements.ReleaseStatement@70308aba|print(rH(v1))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{Model.Statements.ReleaseStatement@70308aba|print(rH(v1))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{}
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{Model.Statements.ReleaseStatement@70308aba|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{Model.Statements.ReleaseStatement@70308aba|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:10
+ExecutionStack
+{}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|Model.Statements.AcquireStatement@5efdc51|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{(print(rH(v1)-1);Model.Statements.ReleaseStatement@71fee30c)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{Model.Statements.ReleaseStatement@71fee30c|print(rH(v1)-1)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{Model.Statements.ReleaseStatement@71fee30c|print(rH(v1)-1)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{Model.Statements.ReleaseStatement@71fee30c|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{Model.Statements.ReleaseStatement@71fee30c|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|Model.Statements.AcquireStatement@8d7aed9|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:1
+ExecutionStack
+{}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*10);(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e))|wH(v1,rH(v1)*10)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e))|wH(v1,rH(v1)*10)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->20
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->200
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(wH(v1,rH(v1)*2);(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->200
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)|wH(v1,rH(v1)*2)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->200
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)|wH(v1,rH(v1)*2)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->200
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->400
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{(print(rH(v1));Model.Statements.ReleaseStatement@2c7f013e)|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->400
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{Model.Statements.ReleaseStatement@2c7f013e|print(rH(v1))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->400
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{Model.Statements.ReleaseStatement@2c7f013e|print(rH(v1))|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 }
+File table
+{}
+Heap
+{1->400
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{Model.Statements.ReleaseStatement@2c7f013e|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 400 }
+File table
+{}
+Heap
+{1->400
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{Model.Statements.ReleaseStatement@2c7f013e|}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 400 }
+File table
+{}
+Heap
+{1->400
+}
+
+
+ProgramState with id:100
+ExecutionStack
+{}
+SymbolTable
+{cnt -> 0;v1 -> (1,int );}
+Output
+{20 19 400 }
+File table
+{}
+Heap
+{1->400
+}
+
+
