@@ -1,0 +1,390 @@
+ProgramState with id:1
+ExecutionStack
+{(int v;(v=10;(while(v>0)(print(v);v=v-1))))|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(while(v>0)(print(v);v=v-1)))|int v|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(while(v>0)(print(v);v=v-1)))|int v|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(while(v>0)(print(v);v=v-1)))|}
+SymbolTable
+{v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(while(v>0)(print(v);v=v-1)))|}
+SymbolTable
+{v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=10|}
+SymbolTable
+{v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=10|}
+SymbolTable
+{v -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|}
+SymbolTable
+{v -> 10;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|}
+SymbolTable
+{v -> 10;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|(print(v);v=v-1)|}
+SymbolTable
+{v -> 10;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|(print(v);v=v-1)|}
+SymbolTable
+{v -> 10;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|print(v)|}
+SymbolTable
+{v -> 10;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|print(v)|}
+SymbolTable
+{v -> 10;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|}
+SymbolTable
+{v -> 10;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|}
+SymbolTable
+{v -> 10;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|}
+SymbolTable
+{v -> 9;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|}
+SymbolTable
+{v -> 9;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|(print(v);v=v-1)|}
+SymbolTable
+{v -> 9;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|(print(v);v=v-1)|}
+SymbolTable
+{v -> 9;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|print(v)|}
+SymbolTable
+{v -> 9;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|print(v)|}
+SymbolTable
+{v -> 9;}
+Output
+{10 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|}
+SymbolTable
+{v -> 9;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|}
+SymbolTable
+{v -> 9;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|}
+SymbolTable
+{v -> 8;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|}
+SymbolTable
+{v -> 8;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|(print(v);v=v-1)|}
+SymbolTable
+{v -> 8;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|(print(v);v=v-1)|}
+SymbolTable
+{v -> 8;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|print(v)|}
+SymbolTable
+{v -> 8;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|print(v)|}
+SymbolTable
+{v -> 8;}
+Output
+{10 9 }
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(while(v>0)(print(v);v=v-1))|v=v-1|}
+SymbolTable
+{v -> 8;}
+Output
+{10 9 8 }
+File table
+{}
+Heap
+{}
+
+

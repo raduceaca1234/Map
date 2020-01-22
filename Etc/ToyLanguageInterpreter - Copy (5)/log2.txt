@@ -1,0 +1,52 @@
+ProgramState with id:1
+ExecutionStack
+{(int a;(int b;(a=2+3*5;(b=a+1;print(b)))))|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int b;(a=2+3*5;(b=a+1;print(b))))|int a|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int b;(a=2+3*5;(b=a+1;print(b))))|int a|}
+SymbolTable
+{}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int b;(a=2+3*5;(b=a+1;print(b))))|}
+SymbolTable
+{a -> 0;}
+Output
+{}
+File table
+{}
+Heap
+{}
+
+

@@ -1,0 +1,931 @@
+ProgramState with id:1
+ExecutionStack
+{(int v;(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))))|}
+Symbol table stack
+{{}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))))|int v|}
+Symbol table stack
+{{}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))))|int v|}
+Symbol table stack
+{{}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))))|}
+Symbol table stack
+{{v -> 0;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(v=10;(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10))))|}
+Symbol table stack
+{{v -> 0;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))|v=10|}
+Symbol table stack
+{{v -> 0;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))|v=10|}
+Symbol table stack
+{{v -> 0;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((v=v-1;(v=v-1;print(v))));(sleep(10);print(v*10)))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(sleep(10);print(v*10))|fork((v=v-1;(v=v-1;print(v))))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(sleep(10);print(v*10))|fork((v=v-1;(v=v-1;print(v))))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(sleep(10);print(v*10))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{(v=v-1;(v=v-1;print(v)))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(sleep(10);print(v*10))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{(v=v-1;(v=v-1;print(v)))|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(10)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{(v=v-1;print(v))|v=v-1|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(10)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{(v=v-1;print(v))|v=v-1|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(9)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{(v=v-1;print(v))|}
+Symbol table stack
+{{v -> 9;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(9)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{(v=v-1;print(v))|}
+Symbol table stack
+{{v -> 9;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(8)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{print(v)|v=v-1|}
+Symbol table stack
+{{v -> 9;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(8)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{print(v)|v=v-1|}
+Symbol table stack
+{{v -> 9;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(7)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{print(v)|}
+Symbol table stack
+{{v -> 8;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(7)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{print(v)|}
+Symbol table stack
+{{v -> 8;}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(6)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:10
+ExecutionStack
+{}
+Symbol table stack
+{{v -> 8;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(6)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(5)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(5)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(4)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(4)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(3)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(3)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(2)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(2)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(1)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(1)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(0)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|sleep(0)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(v*10)|}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{}
+Symbol table stack
+{{v -> 10;}|}
+Output
+{8 100 }
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+

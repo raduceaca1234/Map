@@ -1,0 +1,1740 @@
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v1;(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))))))|}
+Symbol table stack
+{{}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))))|Ref(int )v1|}
+Symbol table stack
+{{}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))))|Ref(int )v1|}
+Symbol table stack
+{{}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))))|}
+Symbol table stack
+{{v1 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v2;(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))))|}
+Symbol table stack
+{{v1 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))))|Ref(int )v2|}
+Symbol table stack
+{{v1 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))))|Ref(int )v2|}
+Symbol table stack
+{{v1 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))))|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(Ref(int )v3;(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))))|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))|Ref(int )v3|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))|Ref(int )v3|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(int cnt;(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))))|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))|int cnt|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))|int cnt|}
+Symbol table stack
+{{v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v1,2);(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))|new(v1,2)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))|new(v1,2)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (0,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v2,3);(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))|new(v2,3)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))|new(v2,3)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (0,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(new(v3,4);(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))|new(v3,4)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))|new(v3,4)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (0,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(newBarrier(cnt,rH(v2));(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))|newBarrier(cnt,rH(v2))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))|newBarrier(cnt,rH(v2))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))));(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3)))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))|fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))|fork((await(cnt);(wH(v1,rH(v1)*10);print(rH(v1)))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(await(cnt);(wH(v1,rH(v1)*10);print(rH(v1))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))));(await(cnt);print(rH(v3))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(await(cnt);(wH(v1,rH(v1)*10);print(rH(v1))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(await(cnt);print(rH(v3)))|fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(await(cnt);print(rH(v3)))|fork((await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(await(cnt);print(rH(v3)))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2)))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{(await(cnt);print(rH(v3)))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(await(cnt);(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2)))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(rH(v3))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(rH(v3))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(rH(v3))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(rH(v3))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{(wH(v1,rH(v1)*10);print(rH(v1)))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))|await(cnt)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(rH(v3))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{print(rH(v1))|wH(v1,rH(v1)*10)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{print(rH(v3))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{print(rH(v1))|wH(v1,rH(v1)*10)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);(wH(v2,rH(v2)*10);print(rH(v2))))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{}
+File table
+{}
+Heap
+{1->2
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1
+ExecutionStack
+{}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 }
+File table
+{}
+Heap
+{1->20
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{print(rH(v1))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 }
+File table
+{}
+Heap
+{1->20
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);print(rH(v2)))|wH(v2,rH(v2)*10)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 }
+File table
+{}
+Heap
+{1->20
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{print(rH(v1))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 }
+File table
+{}
+Heap
+{1->20
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);print(rH(v2)))|wH(v2,rH(v2)*10)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 }
+File table
+{}
+Heap
+{1->20
+2->3
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:1000
+ExecutionStack
+{}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 }
+File table
+{}
+Heap
+{1->20
+2->30
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);print(rH(v2)))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 }
+File table
+{}
+Heap
+{1->20
+2->30
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{(wH(v2,rH(v2)*10);print(rH(v2)))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 }
+File table
+{}
+Heap
+{1->20
+2->30
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{print(rH(v2))|wH(v2,rH(v2)*10)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 }
+File table
+{}
+Heap
+{1->20
+2->30
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{print(rH(v2))|wH(v2,rH(v2)*10)|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 }
+File table
+{}
+Heap
+{1->20
+2->30
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{print(rH(v2))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 }
+File table
+{}
+Heap
+{1->20
+2->300
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{print(rH(v2))|}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 }
+File table
+{}
+Heap
+{1->20
+2->300
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
+ProgramState with id:10000
+ExecutionStack
+{}
+Symbol table stack
+{{cnt -> 0;v1 -> (1,int );v2 -> (2,int );v3 -> (3,int );}|}
+Output
+{4 20 300 }
+File table
+{}
+Heap
+{1->20
+2->300
+3->4
+}
+Semaphore table
+
+Barrier table
+{0->3=[1000, 1, 10000]
+}
+Latch table
+{}
+
+
